@@ -21,7 +21,7 @@ None really that matter
 `uuid: Session ID from login`  
 `group: group name`  
 #### Return Values (JSON):
-`request`: `pass` or `fail`
+`request`: `pass` or `fail`  
 `#: one `**message** (Replace `#` with a number (goes from 0 up))  
 `message`:  
  &nbsp;&nbsp;&nbsp;&nbsp;`id: message ID`  
