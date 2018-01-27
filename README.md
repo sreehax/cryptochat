@@ -22,4 +22,9 @@ None really that matter
 `group: group name`  
 #### Return Values (JSON):
 `request`: `pass` or `fail`
-`#`: one **message** (Replace `#` with a number
+`#: one `**message** (Replace `#` with a number (goes from 0 up))  
+`message`:  
+ &nbsp;&nbsp;&nbsp;&nbsp;`id: message ID`  
+&nbsp;&nbsp;&nbsp;&nbsp; `name: username`  
+&nbsp;&nbsp;&nbsp;&nbsp; `timestamp ex. 2018-01-04 12:54:45`  
+&nbsp;&nbsp;&nbsp;&nbsp; `comment: comment content`
